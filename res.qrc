@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/new/prefix3">
+        <file>resou/img/big_rain.png</file>
+        <file>resou/img/big_snow.png</file>
+        <file>resou/img/cloudy.png</file>
+        <file>resou/img/lit_rain.png</file>
+        <file>resou/img/lit_snow.png</file>
+        <file>resou/img/many_cloudy.png</file>
+        <file>resou/img/mid_rain.png</file>
+        <file>resou/img/mid_snow.png</file>
+        <file>resou/img/rain_thounder.png</file>
+        <file>resou/img/rian_snow.png</file>
+        <file>resou/img/sun.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>resou/city.txt</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>resou/res_img/OIP-C.jpg</file>
+        <file>resou/res_img/dance_gril.png</file>
+        <file>resou/res_img/scenery_bg.jpg</file>
+        <file>resou/res_img/Icon/air_close.png</file>
+        <file>resou/res_img/Icon/air_open.png</file>
+        <file>resou/res_img/Icon/close.png</file>
+        <file>resou/res_img/Icon/fan_close.png</file>
+        <file>resou/res_img/Icon/fan_open.png</file>
+        <file>resou/res_img/Icon/home.jpg</file>
+        <file>resou/res_img/Icon/lamp_close.png</file>
+        <file>resou/res_img/Icon/lamp_open.png</file>
+        <file>resou/res_img/Icon/monitoring_jpg.jpg</file>
+        <file>resou/res_img/Icon/music_jpg.png</file>
+        <file>resou/res_img/Icon/weather_foracast.png</file>
+        <file>resou/res_img/Icon/wenshidu.png</file>
+        <file>resou/res_img/samrt_home_pic.png</file>
+        <file>resou/res_img/Icon/sun_Gif.gif</file>
+        <file>resou/res_img/Icon/music_pic.jpg</file>
+        <file>resou/res_img/sanjjin.jpg</file>
+        <file>resou/res_img/scenery_bg1.jpg</file>
+        <file>resou/res_img/scenery_bg2.jpg</file>
+        <file>resou/res_img/wort.jpg</file>
+        <file>resou/res_img/lbxxr.jpg</file>
+        <file>resou/res_img/favicon.ico</file>
+    </qresource>
+</RCC>
