@@ -65,6 +65,7 @@ void weather_forecast::read_file()
 
         ui->comboBox->addItem(city_name);
     }
+    file.close();
 }
 
 void weather_forecast::send_request()

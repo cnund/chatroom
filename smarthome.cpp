@@ -110,12 +110,12 @@ void SmartHome::resServerMes(const QString &msg)
     }
     else  if(msg == "打开卧室灯" || msg == "关闭卧室灯")
     {
-        if((msg ==  "关闭卧室灯" && ui->badroom_airconditioner_pushButton->text()=="开")||
-                ( msg ==  "打开卧室灯" && ui->badroom_airconditioner_pushButton->text() =="关"))
+        if((msg ==  "关闭卧室灯" && ui->badroom_light_pushButton_2->text()=="开")||
+                ( msg ==  "打开卧室灯" && ui->badroom_light_pushButton_2->text() =="关"))
                 {
                     return;
                 }
-              emit ui->badroom_airconditioner_pushButton->clicked();
+              emit ui->badroom_light_pushButton_2->clicked();
     }
     else  if(msg == "打开厕所灯" || msg == "关闭厕所灯")
     {

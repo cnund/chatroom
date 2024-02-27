@@ -121,7 +121,11 @@
           </widget>
          </item>
          <item row="9" column="3">
-          <widget class="QLineEdit" name="weather_9"/>
+          <widget class="QLineEdit" name="weather_9">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="3" column="4">
           <widget class="QLabel" name="img_31">
@@ -131,7 +135,11 @@
           </widget>
          </item>
          <item row="11" column="3">
-          <widget class="QLineEdit" name="weather_11"/>
+          <widget class="QLineEdit" name="weather_11">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="0" column="1">
           <widget class="QLabel" name="img_0">
@@ -162,7 +170,11 @@
           </widget>
          </item>
          <item row="12" column="5">
-          <widget class="QLineEdit" name="T_13"/>
+          <widget class="QLineEdit" name="T_13">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="1" column="4">
           <widget class="QLabel" name="img_41">
@@ -179,10 +191,18 @@
           </widget>
          </item>
          <item row="4" column="5">
-          <widget class="QLineEdit" name="T_5"/>
+          <widget class="QLineEdit" name="T_5">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="5" column="3">
-          <widget class="QLineEdit" name="weather_5"/>
+          <widget class="QLineEdit" name="weather_5">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="3" column="1">
           <widget class="QLabel" name="img_3">
@@ -214,7 +234,11 @@
           </widget>
          </item>
          <item row="0" column="5">
-          <widget class="QLineEdit" name="T_1"/>
+          <widget class="QLineEdit" name="T_1">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="6" column="2">
           <widget class="QLabel" name="img_21">
@@ -231,7 +255,11 @@
           </widget>
          </item>
          <item row="13" column="3">
-          <widget class="QLineEdit" name="weather_13"/>
+          <widget class="QLineEdit" name="weather_13">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="1" column="0">
           <widget class="QLabel" name="day_1">
@@ -269,10 +297,18 @@
           </widget>
          </item>
          <item row="0" column="3">
-          <widget class="QLineEdit" name="weather_0"/>
+          <widget class="QLineEdit" name="weather_0">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="14" column="5">
-          <widget class="QLineEdit" name="T_15"/>
+          <widget class="QLineEdit" name="T_15">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="6" column="1">
           <widget class="QLabel" name="img_6">
@@ -326,16 +362,32 @@
           </widget>
          </item>
          <item row="7" column="5">
-          <widget class="QLineEdit" name="T_8"/>
+          <widget class="QLineEdit" name="T_8">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="6" column="5">
-          <widget class="QLineEdit" name="T_7"/>
+          <widget class="QLineEdit" name="T_7">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="2" column="5">
-          <widget class="QLineEdit" name="T_3"/>
+          <widget class="QLineEdit" name="T_3">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="10" column="3">
-          <widget class="QLineEdit" name="weather_10"/>
+          <widget class="QLineEdit" name="weather_10">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="5" column="2">
           <widget class="QLabel" name="img_23">
@@ -388,7 +440,11 @@
           </widget>
          </item>
          <item row="7" column="3">
-          <widget class="QLineEdit" name="weather_7"/>
+          <widget class="QLineEdit" name="weather_7">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="2" column="2">
           <widget class="QLabel" name="img_24">
@@ -405,7 +461,11 @@
           </widget>
          </item>
          <item row="13" column="5">
-          <widget class="QLineEdit" name="T_14"/>
+          <widget class="QLineEdit" name="T_14">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="5" column="0">
           <widget class="QLabel" name="day_5">
@@ -422,7 +482,11 @@
           </widget>
          </item>
          <item row="9" column="5">
-          <widget class="QLineEdit" name="T_10"/>
+          <widget class="QLineEdit" name="T_10">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="4" column="4">
           <widget class="QLabel" name="img_42">
@@ -454,7 +518,11 @@
           </widget>
          </item>
          <item row="1" column="3">
-          <widget class="QLineEdit" name="weather_1"/>
+          <widget class="QLineEdit" name="weather_1">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="0" column="2">
           <widget class="QLabel" name="img_16">
@@ -464,7 +532,11 @@
           </widget>
          </item>
          <item row="4" column="3">
-          <widget class="QLineEdit" name="weather_4"/>
+          <widget class="QLineEdit" name="weather_4">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="13" column="2">
           <widget class="QLabel" name="img_29">
@@ -474,7 +546,11 @@
           </widget>
          </item>
          <item row="2" column="3">
-          <widget class="QLineEdit" name="weather_2"/>
+          <widget class="QLineEdit" name="weather_2">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="14" column="0">
           <widget class="QLabel" name="day_14">
@@ -504,7 +580,11 @@
           </widget>
          </item>
          <item row="3" column="3">
-          <widget class="QLineEdit" name="weather_3"/>
+          <widget class="QLineEdit" name="weather_3">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="4" column="2">
           <widget class="QLabel" name="img_20">
@@ -542,10 +622,18 @@
           </widget>
          </item>
          <item row="10" column="5">
-          <widget class="QLineEdit" name="T_11"/>
+          <widget class="QLineEdit" name="T_11">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="8" column="5">
-          <widget class="QLineEdit" name="T_9"/>
+          <widget class="QLineEdit" name="T_9">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="10" column="0">
           <widget class="QLabel" name="day_10">
@@ -577,7 +665,11 @@
           </widget>
          </item>
          <item row="11" column="5">
-          <widget class="QLineEdit" name="T_12"/>
+          <widget class="QLineEdit" name="T_12">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="12" column="2">
           <widget class="QLabel" name="img_18">
@@ -594,10 +686,18 @@
           </widget>
          </item>
          <item row="14" column="3">
-          <widget class="QLineEdit" name="weather_14"/>
+          <widget class="QLineEdit" name="weather_14">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="3" column="5">
-          <widget class="QLineEdit" name="T_4"/>
+          <widget class="QLineEdit" name="T_4">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="14" column="1">
           <widget class="QLabel" name="img_14">
@@ -737,7 +837,11 @@
           </widget>
          </item>
          <item row="1" column="5">
-          <widget class="QLineEdit" name="T_2"/>
+          <widget class="QLineEdit" name="T_2">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="10" column="4">
           <widget class="QLabel" name="img_35">
@@ -754,10 +858,18 @@
           </widget>
          </item>
          <item row="5" column="5">
-          <widget class="QLineEdit" name="T_6"/>
+          <widget class="QLineEdit" name="T_6">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="6" column="3">
-          <widget class="QLineEdit" name="weather_6"/>
+          <widget class="QLineEdit" name="weather_6">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="7" column="0">
           <widget class="QLabel" name="day_7">
@@ -818,7 +930,11 @@
           </widget>
          </item>
          <item row="12" column="3">
-          <widget class="QLineEdit" name="weather_12"/>
+          <widget class="QLineEdit" name="weather_12">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
          <item row="7" column="4">
           <widget class="QLabel" name="img_38">
@@ -828,7 +944,11 @@
           </widget>
          </item>
          <item row="8" column="3">
-          <widget class="QLineEdit" name="weather_8"/>
+          <widget class="QLineEdit" name="weather_8">
+           <property name="readOnly">
+            <bool>true</bool>
+           </property>
+          </widget>
          </item>
         </layout>
        </item>
