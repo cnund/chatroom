@@ -4,5 +4,8 @@
 
 有点小忘了
 
-都是功能的截图
+功能截图
 
+![image](res_img/1.png)
+
+![image](res_img/m.png)
